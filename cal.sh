@@ -8,3 +8,7 @@ echo "Addition"
 
 
 a=4+6
+
+echo "division"
+d=10/2
+
