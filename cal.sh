@@ -8,3 +8,7 @@ echo "Addition"
 
 
 a=4+6
+
+echo "Substraction"
+b=6-2
+
