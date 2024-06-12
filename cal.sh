@@ -10,10 +10,20 @@ echo "Addition"
 a=4+6
 
 
+<<<<<<< HEAD
 echo "Substraction"
 b=6-2
+
+
 
 echo "multiplicarion"
 
 c=6*2
+
+
+
+echo "division"
+d=10/2
+
+
 
