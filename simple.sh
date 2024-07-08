@@ -2,4 +2,6 @@
 
 
 
-echo "welcome to github" 
+echo "welcome to github"
+
+echo "learning git commands"
